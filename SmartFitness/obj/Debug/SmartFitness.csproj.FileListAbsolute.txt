@@ -1,0 +1,82 @@
+G:\C100\vs\C#\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe.config
+G:\C100\vs\C#\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe
+G:\C100\vs\C#\SmartFitness\SmartFitness\bin\Debug\SmartFitness.pdb
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.exe
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.pdb
+G:\C100\vs\C#\SmartFitness\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\81202\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\cherry\Desktop\SmartFitness\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\cherry\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\moyuan\Desktop\SmartFitness - 副本\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.start.resources
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\81202\Desktop\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.pdb
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.exe.config
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.exe
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\bin\Debug\SmartFitness.pdb
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.AboutBox1.resources
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.start.resources
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.exe
+F:\Myprojects\其他\Imagine Cup 2018\二挡\SmartFitness2\SmartFitness\obj\Debug\SmartFitness.pdb
